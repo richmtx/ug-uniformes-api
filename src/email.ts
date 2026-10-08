@@ -13,7 +13,7 @@ const REMITENTE = {
 // TODO: cambiar este correo por "irispurpura@hotmail.com" cuando todo esté
 // probado y listo para producción.
 const DESTINATARIO = {
-    name: "Pruebas UG",
+    name: "Solicitudes UG Uniformes",
     email: "irispurpura@hotmail.com",
 };
 
