@@ -14,7 +14,7 @@ const REMITENTE = {
 // probado y listo para producción.
 const DESTINATARIO = {
     name: "Pruebas UG",
-    email: "rich.mtx1205@gmail.com",
+    email: "irispurpura@hotmail.com",
 };
 
 export async function enviarCorreo({ apiKey, asunto, contenidoHtml }: EnviarCorreoParams): Promise<void> {
